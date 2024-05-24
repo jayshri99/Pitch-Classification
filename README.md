@@ -1,6 +1,6 @@
 # pitch-classification
 
-The goal of this project is to create a machine learning system for classifying pitches thrown in MLB games, by training a classifier for pitch type based on the pitch’s characteristics (make make one-model-per-pitcher).
+The goal of this project is to create a machine learning system for classifying pitches thrown in MLB games, by training a classifier for pitch type based on the pitch’s characteristics (make one-model-per-pitcher).
 In real time, make predictions of pitch type as soon as the pitch’s characteristics are recorded.
 
 Focus: Train machine learning models and connect their outputs to larger systems through APIs
