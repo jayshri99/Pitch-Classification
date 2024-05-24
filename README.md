@@ -1,7 +1,4 @@
 # pitch-classification
-Since you did not explicitly mention using Docker, I will omit it from the description. Here is the revised version without Docker:
-
----
 
 **Machine Learning System for MLB Pitch Classification**
 
