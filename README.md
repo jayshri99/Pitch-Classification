@@ -1,13 +1,9 @@
 # pitch-classification
 
-The goal of this MP is to create a machine learning system for classifying pitches thrown in MLB games.
-
-Have advanced tracking technology that can instantly record speed, spin, and other characteristics for each pitch.
-
-Have a trained classifier for pitch type based on the pitch’s characteristics.
+The goal of this project is to create a machine learning system for classifying pitches thrown in MLB games, by training a classifier for pitch type based on the pitch’s characteristics (make make one-model-per-pitcher).
 In real time, make predictions of pitch type as soon as the pitch’s characteristics are recorded.
 
-Will make make one-model-per-pitcher.
+Focus: Train machine learning models and connect their outputs to larger systems through APIs
 
 Baseball Data
 1. [MLB Technology Blog: Introducing Statcast](https://technology.mlblogs.com/introducing-statcast-2020-hawk-eye-and-google-cloud-a5f5c20321b8)
